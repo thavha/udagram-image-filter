@@ -34,4 +34,4 @@ Follow the process described in the course to `eb init` a new application and `e
 
 # project endpoint
 
-http://udagram-image-filter-dev22.us-east-1.elasticbeanstalk.com/
+http://udagram-image-filter-dev22.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://images.unsplash.com/photo-1656402955411-f3d487285e9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60http://udagram-image-filter-dev22.us-east-1.elasticbeanstalk.com
